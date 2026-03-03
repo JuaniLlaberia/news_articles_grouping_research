@@ -1,2 +1,5 @@
 pandas
 matplotlib
+numpy
+sentence_transformers
+tqdm
