@@ -3,3 +3,4 @@ matplotlib
 numpy
 sentence_transformers
 tqdm
+faiss-gpu-cu12
