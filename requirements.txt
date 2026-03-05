@@ -4,3 +4,5 @@ numpy
 sentence_transformers
 tqdm
 faiss-gpu-cu12
+cudf-cu12
+cuml-cu12
