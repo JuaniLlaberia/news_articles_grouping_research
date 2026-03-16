@@ -6,3 +6,6 @@ tqdm
 faiss-gpu-cu12
 cudf-cu12
 cuml-cu12
+cugraph
+spacy
+torch
