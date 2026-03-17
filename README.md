@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](https://www.apache.org/licenses/LICENSE-2.0)
-[![Paper](https://img.shields.io/badge/Paper-OpenReview-red.svg)]()
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-red.svg)](https://openreview.net/forum?id=b5XymdQ6Bj&referrer=%5Bthe%20profile%20of%20Juan%20Ignacio%20Llaberia%5D(%2Fprofile%3Fid%3D~Juan_Ignacio_Llaberia1))
 [![NLP](https://img.shields.io/badge/Task-NLP-purple.svg)](https://en.wikipedia.org/wiki/Natural_language_processing)
 [![Model](https://img.shields.io/badge/HuggingFace-cross--encoder-orange.svg)](https://huggingface.co/Juanillaberia/articles-pairs-event-detection)
 
